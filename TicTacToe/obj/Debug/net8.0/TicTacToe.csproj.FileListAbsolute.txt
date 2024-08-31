@@ -1,0 +1,14 @@
+E:\Repos for VS\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.exe
+E:\Repos for VS\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.deps.json
+E:\Repos for VS\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.runtimeconfig.json
+E:\Repos for VS\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.dll
+E:\Repos for VS\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.pdb
+E:\Repos for VS\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos for VS\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfoInputs.cache
+E:\Repos for VS\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfo.cs
+E:\Repos for VS\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.csproj.CoreCompileInputs.cache
+E:\Repos for VS\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.dll
+E:\Repos for VS\TicTacToe\TicTacToe\obj\Debug\net8.0\refint\TicTacToe.dll
+E:\Repos for VS\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.pdb
+E:\Repos for VS\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.genruntimeconfig.cache
+E:\Repos for VS\TicTacToe\TicTacToe\obj\Debug\net8.0\ref\TicTacToe.dll
